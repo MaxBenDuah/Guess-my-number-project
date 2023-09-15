@@ -1,0 +1,53 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-family: "Roboto Slab", serif;
+  background: rgb(0, 0, 0);
+}
+
+.mint-green {
+  background: #61c9a8;
+}
+
+.button {
+  background: #ecdd7b;
+  font-size: 2rem;
+  font-weight: bold;
+  border: none;
+  padding: 0.5em 1em;
+  border-radius: 0.6em;
+}
+
+.condition {
+  font-size: 2.5rem;
+}
+
+.q-mark {
+  background: orange;
+  padding: 1.5em 2em;
+  font-size: 2rem;
+  font-weight: bolder;
+}
+
+.input-div {
+  margin-top: 8em;
+}
+
+.h1-text {
+  font-weight: 900;
+  color: #fff;
+}
+
+.scores-div {
+  margin-left: 10em;
+}
+
+.input-guess {
+  padding: 1.3em 0.1em;
+  font-size: 1.5rem;
+  font-weight: bolder;
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
